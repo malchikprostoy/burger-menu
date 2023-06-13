@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/burger-menu/static/css/main.ebbad89b.css",
+    "main.js": "/burger-menu/static/js/main.3552d175.js",
+    "index.html": "/burger-menu/index.html",
+    "main.ebbad89b.css.map": "/burger-menu/static/css/main.ebbad89b.css.map",
+    "main.3552d175.js.map": "/burger-menu/static/js/main.3552d175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebbad89b.css",
+    "static/js/main.3552d175.js"
+  ]
+}
